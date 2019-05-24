@@ -8,7 +8,7 @@ import java.util.Collections;
 
 /**
  * 学生成绩管理系统
- * @author 268142224
+ * @author 亢博
  *
  *
  */
